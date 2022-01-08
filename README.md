@@ -1,3 +1,6 @@
+
+大数据经典论文
+
 ### Stream
 
 - [ ] [One SQL to Rule Them All:
@@ -47,7 +50,14 @@ In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi
 - [ ] [MapReduce: Simplified Data Processing
 on Large Clusters](https://github.com/sjf0115/PaperNotes/blob/main/MapReduce-%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf)
 - [ ] [Bigtable: A Distributed Storage System for Structured Data](https://www.usenix.org/legacy/event/osdi06/tech/chang/chang.pdf)
+- [ ] [SQL-on-Hadoop: Full Circle Back to Shared-Nothing
+Database Architectures](http://www.vldb.org/pvldb/vol7/p1295-floratou.pdf)
+
+### 文件系统
+
 - [ ] [The Google File System](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf)
+- [RCFile: A Fast and Space-efficient Data Placement
+Structure in MapReduce-based Warehouse Systems](https://github.com/sjf0115/PaperNotes/blob/main/RCFile-%20A%20Fast%20and%20Space-efficient%20Data%20Placement%20Structure%20in%20MapReduce-based%20Warehouse%20Systems.pdf)
 
 ### Calcite
 
@@ -66,3 +76,6 @@ Query Processing Over Heterogeneous Data Sources](https://dl.acm.org/doi/pdf/10.
 ### Presto
 
 - [ ] [Presto: SQL on Everything](https://trino.io/Presto_SQL_on_Everything.pdf)
+
+参考：
+- https://aijishu.com/a/1060000000002768#item-3-10
