@@ -76,6 +76,3 @@ Query Processing Over Heterogeneous Data Sources](https://dl.acm.org/doi/pdf/10.
 ### Presto
 
 - [ ] [Presto: SQL on Everything](https://trino.io/Presto_SQL_on_Everything.pdf)
-
-参考：
-- https://aijishu.com/a/1060000000002768#item-3-10
